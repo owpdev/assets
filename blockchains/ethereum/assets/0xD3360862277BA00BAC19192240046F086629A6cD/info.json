@@ -1,0 +1,11 @@
+{
+    "name": "OneWorldPlan Coin",
+    "website": "https://oneworldplan.com",
+    "description": "OneWorldPlan.com (OWP) a 100% recipient  give-through telehealth platform solves trust and transparency issues donors face when giving to charity.  OWP trustless smart contract rewards donors with cryptocurrency and IRS tax deductions. OWP donates 5% to donor selected charity. OWP is free to 501c3.",
+    "explorer": "https://etherscan.io/address/0xd3360862277ba00bac19192240046f086629a6cd",
+    "type": "ERC20",
+    "symbol": "OWP",
+    "decimals": 6,
+    "status": "active",
+    "id": "0xD3360862277BA00BAC19192240046F086629A6cD"
+}
